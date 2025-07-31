@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-07-31 135429" src="https://github.com/user-attachments/assets/32a786fe-e44c-4235-ad12-08ff0403db04" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-31 135403" src="https://github.com/user-attachments/assets/4d991a73-6487-413c-b3ad-10e309f711af" />
+
 Basic Backend Url Shoetener Project 
 How it works ?
     Firstly user sumit a long url.
@@ -12,4 +11,7 @@ Technologies used ?
     Spring Boot for Backend
     MySQL for Database
     HTML for frontend
-    
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-31 135403" src="https://github.com/user-attachments/assets/4d991a73-6487-413c-b3ad-10e309f711af" />    
+<img width="1920" height="1080" alt="Screenshot 2025-07-31 135429" src="https://github.com/user-attachments/assets/32a786fe-e44c-4235-ad12-08ff0403db04" />
